@@ -1,0 +1,29 @@
+.Search {
+    padding: 20px 0;
+    width: 100%;
+    display: flex;
+
+    input {
+        border: none;
+        outline: none;
+        width: 100%;
+        padding: 10px 20px;
+        border-radius: 4px 0 0 4px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 120%;
+    }
+
+    button {
+        width: 69px;
+        border: none;
+        outline: none;
+        background: #3F3F3F;
+        border-radius: 0px 4px 4px 0px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 120%;
+        color: #FFFFFF;
+        cursor: pointer;
+    }
+}
